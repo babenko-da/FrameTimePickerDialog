@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimePickerDialog</string>
+    <string name="main_btn_show_time_picker">Set Time</string>
+</resources>
